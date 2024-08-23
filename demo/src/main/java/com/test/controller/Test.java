@@ -17,6 +17,6 @@ public class Test {
 
     @GetMapping("/")
     public String testapp(){
-        return "hi there from spring boot";
+        return "hi there. this is pring boot app";
     }
 }
